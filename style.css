@@ -6,10 +6,10 @@ body {
 .navbar-header{
     margin: 5px;
 }
-.navbar-brand {
+/*.navbar-brand {
     font-size: 1.7em;
     margin-left: 150px;
-}
+}*/
 .navbar-nav {
     font-size: 1.5em;
     margin-right: 80px;
